@@ -1,4 +1,4 @@
 jps_pathfinding
 main
-cinfig.vascode/*
+config.vscode
 data/*/output/*
